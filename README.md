@@ -1,5 +1,5 @@
 <h2 align="center">
-  Olá meu nome é Alexandre Gomes, sou Professor Universitário na Área de Desenvolvimento de Softwares, Especialista em Redes de Computadores e Segurança da Informação e sou Mestrando em Computação Aplicada em Imagens Médicas pela USP!
+  Olá!!! Meu nome é Alexandre Gomes, sou Professor Universitário na Área de Desenvolvimento de Softwares, Especialista em Servidores e Redes de Computadores com ênfase em Segurança da Informação com mais de 25 anos de experiência em T.I. e sou Mestrando em Computação Aplicada em Biociências na USP!
 </h2>
 
 <div align="center">
@@ -10,10 +10,11 @@
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ale-Js" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ale-React" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Ale-React" height="30" width="40" title="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ale-HTML" height="30" width="40" title="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ale-CSS" height="30" width="40" title="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ale-Python" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ale-Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ale-Vue" height="30" width="40" title="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Ale-Dart" height="30" width="40" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Ale-Dart" height="30" width="40" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
