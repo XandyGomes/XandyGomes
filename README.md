@@ -20,11 +20,12 @@
   <img align="center" alt="Ale-Sqllite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg">
   <img align="center" alt="Ale-Boot" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg">
 <div>
+    <a href="http://lattes.cnpq.br/6386688512462449" target="_blank"><img alt="Ale-Lattes" height="80" width="200"   src="https://ppgsed.unespar.edu.br/imagens/lattes.png" target="_blank"></a>
   <a href="https://www.youtube.com/portalx3informatica" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/xandygomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexandre.g@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alexandre-gomes-218985118" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/6386688512462449" target="_blank"><img alt="Ale-Lattes" height="80" width="200"   src="https://ppgsed.unespar.edu.br/imagens/lattes.png" target="_blank"></a>
+
  
   ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
  
