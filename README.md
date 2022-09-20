@@ -1,4 +1,6 @@
+<div align="center">
 ## Olá meu nome é Alexandre Gomes, sou Professor Universitário na Área de Desenvolvimento de Softwares e sou Mestrando em Computação Aplicada em Imagens Médicas pela USP!
+</div>
 <div align="center">
   <a href="https://github.com/XandyGomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XandyGomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
