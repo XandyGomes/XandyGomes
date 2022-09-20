@@ -1,7 +1,6 @@
-
-  <h2 align="center">
+<h2 align="center">
 Olá meu nome é Alexandre Gomes, sou Professor Universitário na Área de Desenvolvimento de Softwares e sou Mestrando em Computação Aplicada em Imagens Médicas pela USP!
-  </h2>
+</h2>
 
 <div align="center">
   <a href="https://github.com/XandyGomes">
