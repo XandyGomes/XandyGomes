@@ -1,5 +1,5 @@
 <h2 align="center">
-  Olá!!! Meu nome é Alexandre Gomes, sou Professor Universitário na Área de Desenvolvimento de Softwares, Especialista em Servidores e Redes de Computadores com ênfase em Segurança da Informação com mais de 25 anos de experiência em T.I. e sou Mestrando em Computação Aplicada em Biociências na USP!
+  Olá!!! Meu nome é Alexandre Gomes, sou Professor Universitário na Área de Desenvolvimento de Softwares, Especialista em Servidores e Redes de Computadores com ênfase em Segurança da Informação com mais de 25 anos de experiência em T.I. e sou Mestrando em Computação Aplicada em Biociências pela USP!
 </h2>
 
 <div align="center">
