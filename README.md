@@ -67,11 +67,13 @@
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![junit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
 </div>
-  
-<div align="center">
+
+<div align="center">  
   <a href="http://lattes.cnpq.br/6386688512462449" target="_blank"><img alt="Ale-Lattes" height="80" width="200" title="Currículo Lattes" src="https://ppgsed.unespar.edu.br/imagens/lattes.png" target="_blank"></a>
+</div>
+
+<div align="center">
   <a href="https://www.youtube.com/portalx3informatica" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/xandygomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexandre.g@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -82,5 +84,6 @@
 </div>
 
 <div align="center">
+	
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) 
 </div>
