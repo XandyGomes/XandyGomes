@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Alexandre Gomes</h1>
 
 ## 🚀 Sobre mim
-<h3 align="center">Professor Universitário e Técnico de Desenvolvimento de Sistemas, Especialista em Servidores e Redes de Computadores com ênfase em Segurança da Informação com mais de 28 anos de experiência em Tecnologia da Informação, Pós-Graduado, MBA, Mestrando e Pesquisador em Computação Aplicada pela USP de Ribeirão Preto!</h3>
+<h3 align="center">Professor Universitário nos cursos de Desenvolvimento de Sistemas, Especialista em Servidores e Redes de Computadores com ênfase em Segurança da Informação com mais de 28 anos de experiência em Tecnologia da Informação, Pós-Graduado, MBA, Mestrando e Pesquisador em Computação Aplicada pela USP de Ribeirão Preto!</h3>
 
 <div align="center">
   <a href="https://github.com/XandyGomes">
