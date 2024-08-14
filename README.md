@@ -10,6 +10,8 @@
 </div>
 
 ## 🛠️ Habilidades
+<div align="center">
+	
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,6 +67,8 @@
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![junit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
   
 <div align="center">
   <a href="http://lattes.cnpq.br/6386688512462449" target="_blank"><img alt="Ale-Lattes" height="80" width="200" title="Currículo Lattes" src="https://ppgsed.unespar.edu.br/imagens/lattes.png" target="_blank"></a>
