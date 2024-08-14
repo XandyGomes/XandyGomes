@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Alexandre Gomes</h1>
 
 ## 👨🏻‍🏫 Sobre 🎓
-<h3 align="center">Professor dos Cursos Superiores em Análise e Desenvolvimento de Sistemas (ADS) e Desenvolvimento de Software Multiplataforma (DSM) pela FATEC Franca e Professor de Curso Técnico em Desenvolvimento de Sistemas pelo SENAI Franca, Especialista em Servidores e Redes de Computadores com ênfase em Segurança da Informação com mais de 28 anos de experiência em Tecnologia da Informação, 03 Graduações, 02 Pós-Graduações, 01 MBA, Mestrando e Pesquisador em Computação Aplicada pela USP de Ribeirão Preto! https://dgp.cnpq.br/dgp/espelhorh/0241521688 </h3>
+<h3 align="center">Professor dos Cursos Superiores em Análise e Desenvolvimento de Sistemas (ADS) e Desenvolvimento de Software Multiplataforma (DSM) pela FATEC Franca e Professor de Curso Técnico em Desenvolvimento de Sistemas pelo SENAI Franca, Especialista em Servidores e Redes de Computadores com ênfase em Segurança da Informação com mais de 28 anos de experiência em Tecnologia da Informação, 03 Graduações, 02 Pós-Graduações, 01 MBA, Mestrando e Pesquisador em Computação Aplicada pela USP de Ribeirão Preto! dgp.cnpq.br/dgp/espelhorh/0241521688 </h3>
 
 <div align="center">
   <a href="https://github.com/XandyGomes">
