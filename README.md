@@ -69,9 +69,13 @@
 ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </div>
 
+## 📝 Currículo
+
 <div align="center">  
   <a href="http://lattes.cnpq.br/6386688512462449" target="_blank"><img alt="Ale-Lattes" height="80" width="200" title="Currículo Lattes" src="https://ppgsed.unespar.edu.br/imagens/lattes.png" target="_blank"></a>
 </div>
+
+## 📱 Contato
 
 <div align="center">
   <a href="https://www.youtube.com/portalx3informatica" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
