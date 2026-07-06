@@ -22,12 +22,6 @@
 - 📚 3 Graduações, 2 Pós-Graduações, 1 MBA. **Mestre e Pesquisador em Computação Aplicada** pela USP de Ribeirão Preto.
 - 🔬 [Grupo de pesquisa no CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/752057)
 
-<div align="center">
-  <a href="https://github.com/XandyGomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XandyGomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandyGomes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ---
 
 ## 🚀 Projetos em destaque
@@ -118,7 +112,7 @@
   <a href="https://www.youtube.com/portalx3informatica" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/xandygomes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alexandre.g@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexandre-gomes-218985118" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/profalexandregomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a target="_blank" href="https://api.whatsapp.com/send/?phone=5516992011010&text=Ol%C3%A1,%20Alexandre&app_absent=0">
 	<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="Whatsapp Alexandre" width="130">
   </a>
