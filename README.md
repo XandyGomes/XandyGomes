@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou o Professor Me. Alexandre Gomes</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Professor+%26+Desenvolvedor+Full-Stack;Mestre+e+Pesquisador+em+Computa%C3%A7%C3%A3o+Aplicada+(USP);Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%7C+29%2B+anos+em+TI&center=true&size=20&width=650&duration=3000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Professor+%26+Desenvolvedor+Full-Stack;Mestre+e+Pesquisador+em+Computa%C3%A7%C3%A3o+Aplicada+(USP);Seguran%C3%A7a+da+Informa%C3%A7%C3%A3o+%7C+30%2B+anos+em+TI&center=true&size=20&width=650&duration=3000&pause=1000" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,8 @@
 - 🎓 Professor efetivo nos cursos superiores de **Análise e Desenvolvimento de Sistemas (ADS)** e **Desenvolvimento de Software Multiplataforma (DSM)** na **FATEC** – Faculdade de Tecnologia de Franca.
 - 🎓 Professor efetivo na **UNIFACEF** – Centro Universitário Municipal de Franca, nos cursos de Engenharia de Software, Ciência da Computação e Sistemas de Informação.
 - 🎓 Professor no **SENAI Franca**, no curso técnico em Desenvolvimento de Sistemas (DS).
-- 🛡️ Especialista em Servidores e Redes de Computadores, com ênfase em **Segurança da Informação** e mais de **29 anos** de experiência em TI.
+- 🛡️ Especialista em Servidores e Redes de Computadores, com ênfase em **Segurança da Informação** e mais de **30 anos** de experiência em TI.
+- 💻 Desenvolvedor full-stack.
 - 📚 3 Graduações, 2 Pós-Graduações, 1 MBA. **Mestre e Pesquisador em Computação Aplicada** pela USP de Ribeirão Preto.
 - 🔬 [Grupo de pesquisa no CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/752057)
 
