@@ -19,7 +19,7 @@
 - 🎓 Professor efetivo na **UNIFACEF** – Centro Universitário Municipal de Franca, nos cursos de Engenharia de Software, Ciência da Computação e Sistemas de Informação.
 - 🎓 Professor no **SENAI Franca**, no curso técnico em Desenvolvimento de Sistemas (DS).
 - 🛡️ Especialista em Servidores e Redes de Computadores, com ênfase em **Segurança da Informação** e mais de **29 anos** de experiência em TI.
-- 📚 3 Graduações, 2 Pós-Graduações, 1 MBA — **Mestre e Pesquisador em Computação Aplicada** pela USP de Ribeirão Preto.
+- 📚 3 Graduações, 2 Pós-Graduações, 1 MBA. **Mestre e Pesquisador em Computação Aplicada** pela USP de Ribeirão Preto.
 - 🔬 [Grupo de pesquisa no CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/752057)
 
 <div align="center">
@@ -34,10 +34,10 @@
 
 | Projeto | Descrição | Stack | Links |
 |---|---|---|---|
-| 🏃‍♂️ **[Aura Run](https://github.com/XandyGomes/aura-run)** | Treinador de corrida com IA conectado ao Strava — recomendações de treino personalizadas a partir do seu histórico real. | `Next.js` `TypeScript` `Groq/Gemini` `Strava API` | [Demo](https://aura-run.vercel.app) |
-| ⚔️ **[CR Stats](https://github.com/XandyGomes/cr-stats)** | Dashboard mobile-first de análise de batalhas e decks do Clash Royale — 100% client-side, nenhum dado sai do dispositivo. | `PWA` `JavaScript` `Chart.js` `Web Crypto API` | [Demo](https://cr-stats-olive.vercel.app) |
-| 🌅 **[BomDia Share](https://github.com/XandyGomes/bomdia-share)** | App mobile para buscar e compartilhar imagens motivacionais direto no WhatsApp, com detecção automática do horário do dia. | `React Native` `Expo` | — |
-| 🏥 **[PET Saúde Digital](https://github.com/XandyGomes/totem-prototype-main)** | Sistema de gestão de filas e atendimento para um Núcleo de Gestão Assistencial — totem, painel de chamadas e dashboard administrativo. | `Next.js` `NestJS` `Prisma` `PostgreSQL` | [Demo](https://totem-prototype-main.vercel.app) |
+| 🏃‍♂️ **[Aura Run](https://github.com/XandyGomes/aura-run)** | Treinador de corrida com IA conectado ao Strava, com recomendações de treino personalizadas a partir do seu histórico real. | `Next.js` `TypeScript` `Groq/Gemini` `Strava API` | [Demo](https://aura-run.vercel.app) |
+| ⚔️ **[CR Stats](https://github.com/XandyGomes/cr-stats)** | Dashboard mobile-first de análise de batalhas e decks do Clash Royale, 100% client-side, sem dados saindo do dispositivo. | `PWA` `JavaScript` `Chart.js` `Web Crypto API` | [Demo](https://cr-stats-olive.vercel.app) |
+| 🌅 **[BomDia Share](https://github.com/XandyGomes/bomdia-share)** | App mobile para buscar e compartilhar imagens motivacionais direto no WhatsApp, com detecção automática do horário do dia. | `React Native` `Expo` | *(em breve)* |
+| 🏥 **[PET Saúde Digital](https://github.com/XandyGomes/totem-prototype-main)** | Sistema de gestão de filas e atendimento para um Núcleo de Gestão Assistencial, com totem, painel de chamadas e dashboard administrativo. | `Next.js` `NestJS` `Prisma` `PostgreSQL` | [Demo](https://totem-prototype-main.vercel.app) |
 
 ---
 
