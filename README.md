@@ -35,6 +35,22 @@
 
 ---
 
+## 📚 Projetos didáticos e workshops
+
+Material de aula e apps de exemplo desenvolvidos para disciplinas e minicursos que ministro.
+
+| Projeto | Contexto | Stack |
+|---|---|---|
+| 🎴 **[ARI2026-1](https://github.com/XandyGomes/ARI2026-1)** | Flashcards de estudo para a disciplina de Arquitetura de Redes com IoT | `JavaScript` |
+| 🎬 **[App Filmes TechWeek 2024](https://github.com/XandyGomes/appFilmesTechWeek2024)** | App de filmes consumindo a API do TMDB, workshop TechWeek 2024 | `React Native` `Expo` |
+| 📍 **[App Geolocalização TechWeek 2023](https://github.com/XandyGomes/appGeolocalizacaoTechWeek2023)** | App de geolocalização e mapas, minicurso TechWeek 2023 | `React Native` `Google Maps API` |
+| 📖 **[Material Minicurso Geolocalização](https://github.com/XandyGomes/AMAGL15TechWeek2023)** | Apostila e slides do minicurso de app mobile com geolocalização | `PDF` |
+| 🔌 **[Conexão Flutter + Python](https://github.com/XandyGomes/Conection_Flutter_Py)** | Demo de comunicação em tempo real via WebSocket entre Flutter e Python | `Flutter` `Python` `WebSocket` |
+| 📝 **[Arquivos JS Franca Digital](https://github.com/XandyGomes/Arquivos_JavaScript_Projeto_Franca_Digital)** | Material introdutório de JavaScript puro (variáveis, formulário dinâmico) | `JavaScript` |
+| 🔧 **[Projetos Arduino](https://github.com/XandyGomes/projetosArduino)** | Sketches de aula: LEDs, botão, buzzer e semáforo | `C++` `Arduino` |
+
+---
+
 ## 🛠️ Habilidades
 
 **Linguagens**
