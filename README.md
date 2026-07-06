@@ -36,13 +36,25 @@
 
 ---
 
+## 📖 Apostilas interativas
+
+Material de aula publicado como site (GitHub Pages), com conteúdo, exercícios e animações para as disciplinas que ministro.
+
+| Material | Descrição | Link |
+|---|---|---|
+| 📗 **Estrutura de Dados I e II (Uni-FACEF)** | Apostila interativa cobrindo TADs, alocação de memória, listas/pilhas/filas/hash/grafos (1º semestre) e ordenação, busca e árvores (2º semestre), com 17 módulos em PDF e animações de algoritmos | [Acessar](https://xandygomes.github.io/E.D.UniFacef.2026.1/) |
+| 📘 **Estrutura de Dados (Fatec Franca)** | Apostila interativa da disciplina em Java: algoritmos de busca/ordenação, pilhas/filas/deques, listas encadeadas e árvores binárias de busca, com 14 módulos em PDF e animações | [Acessar](https://xandygomes.github.io/E.D.Fatec.2026.1/) |
+| 🕸️ **Explorador de Grafos** | Ferramenta interativa de teoria dos grafos: sandbox para montar grafos, visualização de BFS/DFS, contexto histórico (Pontes de Königsberg), aplicações reais (GPS, redes sociais, logística) e quiz final | [Acessar](https://xandygomes.github.io/grafos/) |
+
+---
+
 ## 📚 Projetos didáticos e workshops
 
 Material de aula e apps de exemplo desenvolvidos para disciplinas e minicursos que ministro.
 
 | Projeto | Contexto | Stack |
 |---|---|---|
-| 🎴 **[ARI2026-1](https://github.com/XandyGomes/ARI2026-1)** | Flashcards de estudo para a disciplina de Arquitetura de Redes com IoT | `JavaScript` |
+| 🎴 **[ARI2026-1](https://github.com/XandyGomes/ARI2026-1)** | Flashcards de estudo para a disciplina de Arquitetura de Redes com IoT ([demo](https://xandygomes.github.io/ARI2026-1/)) | `JavaScript` |
 | 🎬 **[App Filmes TechWeek 2024](https://github.com/XandyGomes/appFilmesTechWeek2024)** | App de filmes consumindo a API do TMDB, workshop TechWeek 2024 | `React Native` `Expo` |
 | 📍 **[App Geolocalização TechWeek 2023](https://github.com/XandyGomes/appGeolocalizacaoTechWeek2023)** | App de geolocalização e mapas, minicurso TechWeek 2023 | `React Native` `Google Maps API` |
 | 📖 **[Material Minicurso Geolocalização](https://github.com/XandyGomes/AMAGL15TechWeek2023)** | Apostila e slides do minicurso de app mobile com geolocalização | `PDF` |
