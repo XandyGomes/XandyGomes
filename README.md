@@ -9,6 +9,26 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XandyGomes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+## 🚀 Projetos em destaque
+
+### 🏃‍♂️ [Aura Run](https://github.com/XandyGomes/aura-run)
+Treinador de corrida com IA conectado ao Strava — analisa seu histórico de treinos e gera recomendações personalizadas.
+`Next.js` · `TypeScript` · `Groq/Gemini` · `Strava API`
+🌐 [Demo ao vivo](https://aura-run.vercel.app)
+
+### ⚔️ [CR Stats](https://github.com/XandyGomes/cr-stats)
+Dashboard mobile-first de análise de batalhas e decks do Clash Royale — 100% client-side, nenhum dado sai do dispositivo.
+`PWA` · `JavaScript` · `Chart.js` · `Web Crypto API`
+🌐 [Demo ao vivo](https://cr-stats-olive.vercel.app)
+
+### 🌅 [BomDia Share](https://github.com/XandyGomes/bomdia-share)
+App mobile para buscar e compartilhar imagens motivacionais direto no WhatsApp, com detecção automática do horário do dia.
+`React Native` · `Expo`
+
+### 🏥 [PET Saúde Digital](https://github.com/XandyGomes/totem-prototype-main)
+Sistema de gestão de filas e atendimento para um Núcleo de Gestão Assistencial — totem de identificação, painel de chamadas e dashboard administrativo.
+`Next.js` · `NestJS` · `Prisma` · `PostgreSQL`
+
 ## 🛠️ Habilidades 💻
 <div align="center">
 	
