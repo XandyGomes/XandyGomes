@@ -42,9 +42,7 @@ Material de aula publicado como site (GitHub Pages), com conteúdo, exercícios 
 
 | Material | Descrição | Link |
 |---|---|---|
-| 📗 **Estrutura de Dados I e II (Uni-FACEF)** | Apostila interativa cobrindo TADs, alocação de memória, listas/pilhas/filas/hash/grafos (1º semestre) e ordenação, busca e árvores (2º semestre), com 17 módulos em PDF e animações de algoritmos | [Acessar](https://xandygomes.github.io/E.D.UniFacef.2026.1/) |
-| 📘 **Estrutura de Dados (Fatec Franca)** | Apostila interativa da disciplina em Java: algoritmos de busca/ordenação, pilhas/filas/deques, listas encadeadas e árvores binárias de busca, com 14 módulos em PDF e animações | [Acessar](https://xandygomes.github.io/E.D.Fatec.2026.1/) |
-| 🕸️ **Explorador de Grafos** | Ferramenta interativa de teoria dos grafos: sandbox para montar grafos, visualização de BFS/DFS, contexto histórico (Pontes de Königsberg), aplicações reais (GPS, redes sociais, logística) e quiz final | [Acessar](https://xandygomes.github.io/grafos/) |
+| 🧮 **[Estrutura de Dados](https://github.com/XandyGomes/estrutura-de-dados)** | Site interativo com os 20 tópicos da disciplina (arrays, ordenação, recursividade, listas, árvores, hash, grafos), cada um com lição, animação passo a passo do algoritmo e quiz. Unifica o material usado nas turmas de FATEC, Uni-FACEF, SENAI e Anhanguera | [Acessar](https://xandygomes.github.io/estrutura-de-dados/) |
 
 ---
 
