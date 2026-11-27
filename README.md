@@ -22,6 +22,8 @@
 - 💻 Desenvolvedor full-stack.
 - 📚 3 Graduações, 2 Pós-Graduações, 1 MBA. **Mestre e Pesquisador em Computação Aplicada** pela USP de Ribeirão Preto.
 - 🔬 [Grupo de pesquisa no CNPq](http://dgp.cnpq.br/dgp/espelhogrupo/752057)
+- 📄 [Currículo Lattes](https://busca-cv-lattes.cnpq.br/curriculo/6386688512462449)
+- 🆔 [ORCID: 0000-0002-0413-7296](https://orcid.org/0000-0002-0413-7296)
 
 ---
 
