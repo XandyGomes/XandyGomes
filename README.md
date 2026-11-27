@@ -34,6 +34,7 @@
 | ⚔️ **[CR Stats](https://github.com/XandyGomes/cr-stats)** | Dashboard mobile-first de análise de batalhas e decks do Clash Royale, 100% client-side, sem dados saindo do dispositivo. | `PWA` `JavaScript` `Chart.js` `Web Crypto API` | [Demo](https://cr-stats-olive.vercel.app) |
 | 🌅 **[BomDia Share](https://github.com/XandyGomes/bomdia-share)** | App mobile de mensagens de bom dia/motivação pro WhatsApp: busca combinando 3 fontes de imagem com fallback automático entre elas, histórico local anti-repetição e frases geradas por IA (Gemini) compostas sobre a foto em tempo real. | `React Native` `Expo` `Gemini AI` | [APK](https://expo.dev/accounts/xandygomes/projects/bomdia-share/builds/7f8dfc41-adf7-4a80-9e78-b0c12a5639c0) |
 | 🏥 **[PET Saúde Digital](https://github.com/XandyGomes/totem-prototype-main)** | Sistema de gestão de filas e atendimento para um Núcleo de Gestão Assistencial, com totem, painel de chamadas e dashboard administrativo. | `Next.js` `NestJS` `Prisma` `PostgreSQL` | [Demo](https://totem-prototype-main.vercel.app) |
+| 🌴 **[Guia GTA VI](https://github.com/XandyGomes/Guia.GTA.VI)** | PWA de fã, em português, para acompanhar o GTA VI: passo a passo das missões, mapa interativo próprio em Canvas, progresso das coleções, funcionamento offline e assistente com IA que responde com base no conteúdo do guia. | `PWA` `JavaScript` `Canvas` `Service Worker` `Gemini API` | [Demo](https://xandygomes.github.io/Guia.GTA.VI/) |
 
 ---
 
